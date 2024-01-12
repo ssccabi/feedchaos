@@ -1,5 +1,5 @@
 # feedchaos
-**Welcome to FeedChaos!**
+# Welcome to FeedChaos!
 
 This is a portfolio project intended to demonstrate some of my skills. It is a work in progress, I keep improving the code base, and may add features such as those specified below.
 
